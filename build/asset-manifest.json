@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/parcial2/static/css/main.2b76d1e3.css",
+    "main.js": "/parcial2/static/js/main.9e15e8fa.js",
+    "index.html": "/parcial2/index.html",
+    "main.2b76d1e3.css.map": "/parcial2/static/css/main.2b76d1e3.css.map",
+    "main.9e15e8fa.js.map": "/parcial2/static/js/main.9e15e8fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b76d1e3.css",
+    "static/js/main.9e15e8fa.js"
+  ]
+}
